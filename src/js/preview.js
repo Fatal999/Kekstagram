@@ -8,7 +8,7 @@ const commentFragment = document.createDocumentFragment();
 
 function CommentsCreator(comment) {
   const commentElement = commentTemplate.cloneNode(true);
-  commentElement.querySelector('.social__picture').src = comment.avatar;
+  commentElement.querySelector('.social__picture').src = `./src/${comment.avatar}`;
   commentElement.querySelector('.social__picture').alt = comment.name;
   commentElement.querySelector('.social__text').textContent = comment.message;
   commentElement.classList.add('hidden');

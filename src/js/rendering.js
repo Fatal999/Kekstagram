@@ -10,7 +10,8 @@ function RenderPhoto(photoArray) {
     const photoElement = photoTemplate.cloneNode(true);
 
     photoElement.setAttribute('data-photo-src', url);
-    photoElement.querySelector('.picture__img').src = url;
+
+    photoElement.querySelector('.picture__img').src = `./src/${url}`;
     photoElement.querySelector('.picture__img').alt = description;
     photoElement.querySelector('.picture__likes').textContent = likes;
     photoElement.querySelector('.picture__comments').textContent = comments.length;
