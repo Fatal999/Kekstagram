@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Open Sans";
-  src: url("/fonts/OpenSansCondensed-Bold.woff2") format("woff2"),
-    url("/fonts/OpenSansCondensed-Bold.woff") format("woff");
+  src: url("../../src/fonts/OpenSansCondensed-Bold.woff2") format("woff2"),
+    url("../../src/fonts/OpenSansCondensed-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
   font-family: "Open Sans";
-  src: url("/fonts/OpenSans-Regular.woff2") format("woff2"),
-    url("/fonts/OpenSans-Regular.woff") format("woff");
+  src: url("../../src/fonts/OpenSans-Regular.woff2") format("woff2"),
+    url("../../src/fonts/OpenSans-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -64,7 +64,7 @@ main {
   font-size: 0;
 
   background-color: rgba(255, 255, 255, 0.2);
-  background-image: url("/img/icon-cross.svg");
+  background-image: url("../../src/img/icon-cross.svg");
   background-position: center;
   background-repeat: no-repeat;
 
@@ -229,7 +229,7 @@ main {
   left: 5px;
   top: -7px;
 
-  background-image: url("/img/sprite.png");
+  background-image: url("../../src/img/sprite.png");
   background-repeat: no-repeat;
 }
 
@@ -270,7 +270,7 @@ main {
   min-height: 569px;
 
   background-color: #eed21e;
-  background-image: url("/img/logo-background-1.jpg");
+  background-image: url("../../src/img/logo-background-1.jpg");
   background-repeat: no-repeat;
   background-position: center;
 
@@ -284,7 +284,7 @@ main {
   padding: 0;
   min-height: 569px;
 
-  background-image: url("/img/logo-mask.png");
+  background-image: url("../../src/img/logo-mask.png");
   background-repeat: no-repeat;
   background-position: center;
 
@@ -302,7 +302,7 @@ main {
 
   font-size: 0;
 
-  background-image: url("/img/upload-button-bg.png");
+  background-image: url("../../src/img/upload-button-bg.png");
   background-repeat: no-repeat;
   background-position: center;
 
@@ -319,7 +319,7 @@ main {
   width: 86px;
   height: 114px;
 
-  background-image: url("/img/upload-button.svg");
+  background-image: url("../../src/img/upload-button.svg");
   background-repeat: no-repeat;
   background-position: center;
 
@@ -573,7 +573,7 @@ main {
   font-size: 0;
 
   background-color: #314359;
-  background-image: url("/img/upload-default-image.jpg");
+  background-image: url("../../src/img/upload-default-image.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% auto;
@@ -806,7 +806,7 @@ main {
   width: 20px;
   height: 18px;
 
-  background-image: url("/img/sprite.png");
+  background-image: url("../../src/img/sprite.png");
   background-repeat: no-repeat;
 
   background-position: -5px -56px;
@@ -977,7 +977,7 @@ main {
 
   font-size: 0;
 
-  background-image: url("/img/sprite.png");
+  background-image: url("../../src/img/sprite.png");
   background-repeat: no-repeat;
   background-position: -5px -106px;
 
@@ -1062,7 +1062,7 @@ main {
 
   font-size: 0;
 
-  background-image: url("/img/sprite.png");
+  background-image: url("../../src/img/sprite.png");
   background-repeat: no-repeat;
 
   opacity: 0.6;
@@ -1173,7 +1173,7 @@ main {
   top: -100px;
   left: 50%;
 
-  background-image: url("/img/icon-warning.svg");
+  background-image: url("../../src/img/icon-warning.svg");
 
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
