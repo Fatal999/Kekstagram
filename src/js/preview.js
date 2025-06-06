@@ -25,7 +25,7 @@ const bigPhotoLikes = document.querySelector('.likes-count');
 function photoRendering(photos) {
   const dataPhotoSrc = photos.getAttribute('data-photo-src');
 
-  bigPhoto.src = dataPhotoSrc;
+  bigPhoto.src = `./src/${dataPhotoSrc}`;
   photoDescription.textContent = photos.querySelector('.picture__img').alt;
   bigPhotoLikes.textContent = photos.querySelector('.picture__likes').textContent;
   bigPhotoCommentsCount.textContent = photos.querySelector('.picture__comments').textContent;
