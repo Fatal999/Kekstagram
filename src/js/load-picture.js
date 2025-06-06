@@ -13,7 +13,7 @@ function loadPhoto() {
     const preloadPhotoUrl = URL.createObjectURL(photoFile);
     uploadPhoto.src = preloadPhotoUrl;
     miniPreview.forEach((photo) => {
-      photo.style.backgroundImage = `url(${preloadPhotoUrl})`;
+      photo.style.backgroundImage = `url(./src/${preloadPhotoUrl})`;
     });
   }
 }
