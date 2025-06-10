@@ -1,6 +1,7 @@
 <div id="header" align="center">
 
   # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR6N2V1N3VoOHlwN3VmOWZqZm5waWdwbTM3d20wNzNpNnppd2ViYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.gif" width="45"> Greetings, friend <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejR6N2V1N3VoOHlwN3VmOWZqZm5waWdwbTM3d20wNzNpNnppd2ViYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.gif" width="45">
+  
   <img src="/public/img/fatals-gif.gif" width="150" alt="Fatals gif"/>
 
   <div id="badges">
@@ -19,7 +20,7 @@
 
   ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> This is my study project
 
-  ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkwbHVxbGZuemxxbnh2azl5MnI1MjNlejRydXh4ZnVjNXkxNXU1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Nn97Knvcol0rENwFk5/giphy.gif" width="35" height="35"> Stack: HTML, CSS, JS, SCSS, Vite
+  ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkwbHVxbGZuemxxbnh2azl5MnI1MjNlejRydXh4ZnVjNXkxNXU1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Nn97Knvcol0rENwFk5/giphy.gif" width="35" height="35"> Stack: HTML, SCSS, JS, Vite
 
   ## GitHub Pages: https://fatal999.github.io/Kekstagram/
   
